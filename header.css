@@ -1,0 +1,112 @@
+.container{
+    display: flex;
+    background-color: rgb(52, 58, 58);
+    height: 100px;
+    width: 100%;
+    position: fixed;
+    top:0;
+    left: 0;
+    border: 2px solid black;
+}
+.logo{
+    width: 600px;
+    text-align: center;
+    padding-top:30px ;
+    border: 2px solid black;
+}
+.nav{
+    
+    width: 100%;
+    border: 2px solid black;
+}
+.icon{
+    height: 50px;
+    text-align: right;
+    border: 2px solid black;
+}
+.home
+{
+    height: 40px;
+    border: 2px solid black;
+}
+.blue
+{
+    color: rgba(18, 164, 212, 0.61);
+}
+.hh{
+    font-size: xx-large;
+    font-style: italic;
+}
+span{
+    color: white;
+}
+.ic{
+    color: white;
+    height: 10px;
+    padding: 20px;
+    transition: 1s;
+}
+.ic:hover{
+    color: orangered;
+}
+ul
+{
+    display: flex;
+    justify-content: right;
+}
+a{
+    text-decoration: none;
+    color: white;
+    transition: 1s;
+    padding: 20px;
+}
+a:hover{
+    color: orangered;
+}
+li{
+    padding: 5px;
+}
+.air{
+    margin-top: 100px;
+    background: url(airoplane.jpeg);
+    height: 500px;
+    width: 100%;
+    background-size: cover;
+   background-position: 20px; 0
+}
+.main{
+    display: flex;
+    border: 2px solid red;
+    height: 500px;
+    width: 100%;
+}
+.form{
+    border: 2px solid green;
+    height: 500px;
+    width: 300px;
+    background-color: antiquewhite;
+    
+}
+.welcome{
+    border: 2px solid green;
+    height: 500px;
+    width: 100%;
+    
+}
+table{
+    padding-left: 15px;
+    /* line-height: 25px; */
+    color:black;
+}
+input[type=button]{
+    color: white;
+    background-color: rgb(11, 109, 194);
+    border: none;
+    padding: 5px;
+    height: 30px;
+    width: 50px;
+    border-radius:5px ;
+}
+
+
+    
