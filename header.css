@@ -128,13 +128,14 @@ input[type=button]{
 
 .side{
     height: 180px;
-    background-color: aqua;
+    background-color: rgb(62, 118, 156);
     width: 30%;
     border-radius: 5px;
     margin-left: 54px;
     text-align: center;
     padding-top: 50px;
     padding-left: 10px;
+    color: white;
 }
 .footer{
     background-color: rgb(55, 52, 52);
